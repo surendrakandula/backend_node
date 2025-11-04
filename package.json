@@ -10,6 +10,9 @@
   },
   "keywords": [
     "nodejs",
+
+
+     mnljk
     "express",
     "mysql",
     "rest-api",
@@ -25,5 +28,6 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
+    kljoklknś
   }
 }
